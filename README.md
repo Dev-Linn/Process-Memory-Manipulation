@@ -90,5 +90,20 @@ Projeto educacional. **Não modifique jogos ou software de terceiros sem autoriz
 
 ---
 
+#### **Contato**
+Lincoln:
+Discord > linnszsz
+
+Hendrick:
+Discord > choque201
+
+Lucas:
+Discord > lkszzzz
+
+
+---
+
 #### **Contribuições**
 Contribuições são bem-vindas!
+
+
