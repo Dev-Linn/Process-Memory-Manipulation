@@ -1,0 +1,17 @@
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Process-Memory-Manipulation.exe
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Process-Memory-Manipulation.deps.json
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Process-Memory-Manipulation.runtimeconfig.json
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Process-Memory-Manipulation.dll
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Process-Memory-Manipulation.pdb
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.csproj.AssemblyReference.cache
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.AssemblyInfoInputs.cache
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.AssemblyInfo.cs
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-.BBABFDA8.Up2Date
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.dll
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\refint\Process-Memory-Manipulation.dll
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.pdb
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\Process-Memory-Manipulation.genruntimeconfig.cache
+C:\Users\linns\Desktop\moedasv1\Process-Memory-Manipulation\Memory-Manipulation\obj\Debug\net8.0\ref\Process-Memory-Manipulation.dll

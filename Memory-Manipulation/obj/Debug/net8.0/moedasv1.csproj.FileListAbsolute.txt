@@ -1,0 +1,17 @@
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.AssemblyInfoInputs.cache
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.AssemblyInfo.cs
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.csproj.CoreCompileInputs.cache
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\moedasv1.exe
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\moedasv1.deps.json
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\moedasv1.runtimeconfig.json
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\moedasv1.dll
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\moedasv1.pdb
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.dll
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\refint\moedasv1.dll
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.pdb
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.genruntimeconfig.cache
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\ref\moedasv1.dll
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.csproj.AssemblyReference.cache
+C:\Users\linns\Desktop\testenuclear\dano40v2\moedasv1\obj\Debug\net8.0\moedasv1.csproj.Up2Date
